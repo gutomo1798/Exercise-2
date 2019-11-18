@@ -1,0 +1,38 @@
+           .box1{
+          	height: 100px;
+          	width: 700px;
+          	margin-bottom: 35px;
+          	float: left;
+          	margin-left: 220px;
+          }
+
+
+
+          .box2{
+          	height: 100px;
+          	width: 780px;
+          	margin-bottom: 35px;
+          	float: right;
+          	margin-right: 220px;
+          }
+
+          #nomer1{
+          	background-color: #9168B3;
+          	padding: 20px;
+          }
+          
+         
+          #nomer2{
+          	background-color: #a8b368;
+          	padding: 20px;
+          }
+
+          #nomer3{
+          	background-color: #b36c68;
+          	padding: 20px;
+          }
+
+          #nomer4{
+          	background-color: #636363;
+          	padding: 20px;
+          }
